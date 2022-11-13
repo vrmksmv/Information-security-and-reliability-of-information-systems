@@ -1,0 +1,26 @@
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.exe
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.deps.json
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.runtimeconfig.json
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.runtimeconfig.dev.json
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.dll
+D:\универ\5сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.pdb
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.csprojAssemblyReference.cache
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.AssemblyInfoInputs.cache
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.AssemblyInfo.cs
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.csproj.CoreCompileInputs.cache
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.dll
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.pdb
+D:\универ\5сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.genruntimeconfig.cache
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.exe
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.deps.json
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.runtimeconfig.json
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.runtimeconfig.dev.json
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.dll
+D:\универ\5 сем\ЗИ\Labs2\Labs2\bin\Debug\netcoreapp3.1\Labs2.pdb
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.csprojAssemblyReference.cache
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.AssemblyInfoInputs.cache
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.AssemblyInfo.cs
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.csproj.CoreCompileInputs.cache
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.dll
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.pdb
+D:\универ\5 сем\ЗИ\Labs2\Labs2\obj\Debug\netcoreapp3.1\Labs2.genruntimeconfig.cache

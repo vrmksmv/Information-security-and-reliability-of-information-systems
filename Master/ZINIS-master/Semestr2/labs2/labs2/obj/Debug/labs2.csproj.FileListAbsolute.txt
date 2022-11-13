@@ -1,0 +1,10 @@
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.exe.config
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.exe
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.pdb
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csprojAssemblyReference.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.Form1.resources
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.Properties.Resources.resources
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csproj.GenerateResource.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csproj.CoreCompileInputs.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.exe
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.pdb

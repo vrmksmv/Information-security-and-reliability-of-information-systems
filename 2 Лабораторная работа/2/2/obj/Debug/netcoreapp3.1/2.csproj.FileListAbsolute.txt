@@ -1,0 +1,28 @@
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.exe
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.dll
+C:\study\5sem\Зинис(11)\2\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.dll
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\study\5sem\Зинис(11)\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.dll
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\bin\Debug\netcoreapp3.1\2.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.dll
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\2 Лабораторная работа\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache

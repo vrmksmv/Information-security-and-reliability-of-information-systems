@@ -1,0 +1,14 @@
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Univer\3 курс лабы\ЗИ\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\универ\5 сем\ЗИ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\универ\5 сем\ЗИ\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\универ\5 сем\ЗИ\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\универ\5 сем\ЗИ\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\универ\5 сем\ЗИ\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\универ\5 сем\ЗИ\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\универ\5 сем\ЗИ\Lab3\Lab3\obj\Debug\Lab3.pdb

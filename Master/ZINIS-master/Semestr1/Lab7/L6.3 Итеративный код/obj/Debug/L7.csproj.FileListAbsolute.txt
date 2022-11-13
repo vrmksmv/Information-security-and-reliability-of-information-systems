@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe.config
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.pdb
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L7.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.exe
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L7.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L7.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.exe
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\obj\Debug\L7.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\obj\Debug\L7.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\obj\Debug\L7.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.pdb

@@ -1,0 +1,10 @@
+C:\University\Data_Protection\labs5\labs5\labs5\bin\Debug\labs5.exe.config
+C:\University\Data_Protection\labs5\labs5\labs5\bin\Debug\labs5.exe
+C:\University\Data_Protection\labs5\labs5\labs5\bin\Debug\labs5.pdb
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.csprojAssemblyReference.cache
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.Form1.resources
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.Properties.Resources.resources
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.csproj.GenerateResource.cache
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.csproj.CoreCompileInputs.cache
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.exe
+C:\University\Data_Protection\labs5\labs5\labs5\obj\Debug\labs5.pdb

@@ -1,0 +1,20 @@
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Debug\LAB 9.exe.config
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Debug\LAB 9.exe
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Debug\LAB 9.pdb
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB 9.csprojAssemblyReference.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB_9.Form1.resources
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB_9.Properties.Resources.resources
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB 9.csproj.GenerateResource.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB 9.csproj.CoreCompileInputs.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB 9.exe
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Debug\LAB 9.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\bin\Debug\LAB 9.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\bin\Debug\LAB 9.exe
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\bin\Debug\LAB 9.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB 9.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB_9.Form1.resources
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB_9.Properties.Resources.resources
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB 9.csproj.GenerateResource.cache
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB 9.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB 9.exe
+D:\3c1s\Защита инфы и надежность ифн систем\LAB 9\LAB 9\obj\Debug\LAB 9.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vera\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe.config
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.pdb
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csprojAssemblyReference.cache
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.exe
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.pdb
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe.config
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.pdb
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.exe
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\bin\Debug\Перемежение.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\bin\Debug\Перемежение.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\bin\Debug\Перемежение.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\obj\Debug\Перемежение.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab7\Перемежение\Перемежение\obj\Debug\Перемежение.pdb

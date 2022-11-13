@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXLtrgKpswl9Rq5n+zAYsnDYyoptuCiv3wcoQUupE5hgdPbOB6U0llvujjtMZ5Eu2CuklBTAoCtXq9AEC1WwLA==",
+  "success": true,
+  "projectFilePath": "D:\\3 курс 1 сем\\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\\2 Лабораторная работа\\2\\2\\2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Vera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

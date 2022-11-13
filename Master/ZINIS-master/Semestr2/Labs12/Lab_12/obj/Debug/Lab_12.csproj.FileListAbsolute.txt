@@ -1,0 +1,60 @@
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.Form1.resources
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+D:\Crypto\Part 2\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
+D:\Crypto\Part 2\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\Crypto\Part 2\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+D:\Crypto\Part 2\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.Form1.resources
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+D:\Crypto\Part 2\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.Form1.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.Form1.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.Form1.resources
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+F:\Новая папка (2)\Lab_12_стеганография\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\bin\Debug\Lab_12.exe.config
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\bin\Debug\Lab_12.exe
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\bin\Debug\Lab_12.pdb
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.Form1.resources
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.Properties.Resources.resources
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.csproj.GenerateResource.cache
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.exe
+D:\3c2s\ЗИ_\2sem\Lab12\Lab_12\obj\Debug\Lab_12.pdb

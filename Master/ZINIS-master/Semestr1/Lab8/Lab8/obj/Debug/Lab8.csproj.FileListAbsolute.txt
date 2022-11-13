@@ -1,0 +1,31 @@
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Main\Labs\3\ОБИС\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\3c1s\Защита инфы и надежность ифн систем\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab8\Lab8\obj\Debug\Lab8.pdb

@@ -1,0 +1,16 @@
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.exe
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.deps.json
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.json
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.dev.json
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.dll
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\ref\Lab11.dll
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\bin\Debug\net5.0\Lab11.pdb
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.csprojAssemblyReference.cache
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfoInputs.cache
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfo.cs
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.csproj.CoreCompileInputs.cache
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.dll
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\ref\Lab11.dll
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.pdb
+D:\3c2s\ЗИ_\2sem\Lab11\Lab11\obj\Debug\net5.0\Lab11.genruntimeconfig.cache

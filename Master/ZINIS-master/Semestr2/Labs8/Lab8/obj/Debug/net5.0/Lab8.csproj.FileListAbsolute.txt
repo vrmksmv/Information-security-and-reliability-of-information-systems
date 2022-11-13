@@ -1,0 +1,16 @@
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.exe
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.deps.json
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.dev.json
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.dll
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\ref\Lab8.dll
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\bin\Debug\net5.0\Lab8.pdb
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.csprojAssemblyReference.cache
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfoInputs.cache
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfo.cs
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.csproj.CoreCompileInputs.cache
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.dll
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\ref\Lab8.dll
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.pdb
+D:\3c2s\ЗИ_\2sem\Lab8\Lab8\obj\Debug\net5.0\Lab8.genruntimeconfig.cache

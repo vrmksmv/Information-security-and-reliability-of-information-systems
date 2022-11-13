@@ -1,0 +1,10 @@
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Release\LAB 9.exe.config
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Release\LAB 9.exe
+E:\Study\OZiNiNS\LAB 9\LAB 9\bin\Release\LAB 9.pdb
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB 9.csprojAssemblyReference.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB_9.Form1.resources
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB_9.Properties.Resources.resources
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB 9.csproj.GenerateResource.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB 9.csproj.CoreCompileInputs.cache
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB 9.exe
+E:\Study\OZiNiNS\LAB 9\LAB 9\obj\Release\LAB 9.pdb

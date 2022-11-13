@@ -1,0 +1,16 @@
+C:\study\5sem\Зинис(11)\laba5\laba5\bin\Debug\laba5.exe.config
+C:\study\5sem\Зинис(11)\laba5\laba5\bin\Debug\laba5.exe
+C:\study\5sem\Зинис(11)\laba5\laba5\bin\Debug\laba5.pdb
+C:\study\5sem\Зинис(11)\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+C:\study\5sem\Зинис(11)\laba5\laba5\obj\Debug\laba5.csproj.SuggestedBindingRedirects.cache
+C:\study\5sem\Зинис(11)\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\study\5sem\Зинис(11)\laba5\laba5\obj\Debug\laba5.exe
+C:\study\5sem\Зинис(11)\laba5\laba5\obj\Debug\laba5.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\bin\Debug\laba5.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\bin\Debug\laba5.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\bin\Debug\laba5.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\obj\Debug\laba5.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\obj\Debug\laba5.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\4 Лабораторная работа\laba5\laba5\obj\Debug\laba5.pdb
