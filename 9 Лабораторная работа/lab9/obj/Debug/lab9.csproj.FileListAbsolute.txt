@@ -1,0 +1,14 @@
+D:\Repositories\study-sem5-labs-infosecurity\lab9\bin\Debug\lab9.exe
+D:\Repositories\study-sem5-labs-infosecurity\lab9\bin\Debug\lab9.pdb
+D:\Repositories\study-sem5-labs-infosecurity\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\Repositories\study-sem5-labs-infosecurity\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\study-sem5-labs-infosecurity\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\Repositories\study-sem5-labs-infosecurity\lab9\obj\Debug\lab9.exe
+D:\Repositories\study-sem5-labs-infosecurity\lab9\obj\Debug\lab9.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\bin\Debug\lab9.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\bin\Debug\lab9.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\obj\Debug\lab9.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\9 Лабораторная работа\lab9\obj\Debug\lab9.pdb

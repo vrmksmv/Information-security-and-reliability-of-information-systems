@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.exe.config
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.exe
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.pdb
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.exe
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\bin\Debug\11.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\bin\Debug\11.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\bin\Debug\11.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\obj\Debug\11.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\obj\Debug\11.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\obj\Debug\11.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr1\Lab11\11\obj\Debug\11.pdb

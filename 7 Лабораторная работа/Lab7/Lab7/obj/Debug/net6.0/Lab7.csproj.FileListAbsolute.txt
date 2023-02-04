@@ -1,3 +1,33 @@
+D:\ЗИиНИС\Lab7\Lab7\bin\Debug\net6.0\Lab7.exe
+D:\ЗИиНИС\Lab7\Lab7\bin\Debug\net6.0\Lab7.deps.json
+D:\ЗИиНИС\Lab7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+D:\ЗИиНИС\Lab7\Lab7\bin\Debug\net6.0\Lab7.dll
+D:\ЗИиНИС\Lab7\Lab7\bin\Debug\net6.0\Lab7.pdb
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.AssemblyReference.cache
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.dll
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.pdb
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+D:\ЗИиНИС\Lab7\Lab7\obj\Debug\net6.0\ref\Lab7.dll
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\bin\Debug\net6.0\Lab7.exe
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\bin\Debug\net6.0\Lab7.deps.json
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\bin\Debug\net6.0\Lab7.dll
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\bin\Debug\net6.0\Lab7.pdb
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.AssemblyReference.cache
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.dll
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.pdb
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+D:\ЗИиНИС\Лабораторная работа №7\Lab7\Lab7\obj\Debug\net6.0\ref\Lab7.dll
 D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\7 Лабораторная работа\Lab7\Lab7\bin\Debug\net6.0\Lab7.exe
 D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\7 Лабораторная работа\Lab7\Lab7\bin\Debug\net6.0\Lab7.deps.json
 D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\7 Лабораторная работа\Lab7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json

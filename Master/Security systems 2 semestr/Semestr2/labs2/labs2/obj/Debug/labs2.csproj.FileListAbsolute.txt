@@ -1,0 +1,21 @@
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.exe.config
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.exe
+C:\University\Data_Protection\labs2\labs2\bin\Debug\labs2.pdb
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csprojAssemblyReference.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.Form1.resources
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.Properties.Resources.resources
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csproj.GenerateResource.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.csproj.CoreCompileInputs.cache
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.exe
+C:\University\Data_Protection\labs2\labs2\obj\Debug\labs2.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\bin\Debug\labs2.exe.config
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\bin\Debug\labs2.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\bin\Debug\labs2.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.Form1.resources
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.Properties.Resources.resources
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.csproj.GenerateResource.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\labs2\labs2\obj\Debug\labs2.pdb

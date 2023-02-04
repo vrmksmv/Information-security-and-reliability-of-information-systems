@@ -1,0 +1,27 @@
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.exe
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.deps.json
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.runtimeconfig.json
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.runtimeconfig.dev.json
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.dll
+C:\University\Data_Protection\Nod\Nod\bin\Debug\netcoreapp3.1\Nod.pdb
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.csprojAssemblyReference.cache
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.AssemblyInfoInputs.cache
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.AssemblyInfo.cs
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.csproj.CoreCompileInputs.cache
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.dll
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.pdb
+C:\University\Data_Protection\Nod\Nod\obj\Debug\netcoreapp3.1\Nod.genruntimeconfig.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.exe
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.deps.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.runtimeconfig.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.runtimeconfig.dev.json
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.dll
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\bin\Debug\netcoreapp3.1\Nod.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.csproj.AssemblyReference.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.AssemblyInfoInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.AssemblyInfo.cs
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.csproj.CoreCompileInputs.cache
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.dll
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.pdb
+D:\3 курс 1 сем\ЗАЩИТА ИНФОРМАЦИИ И НАДЕЖНОСТЬ ИНФОРМАЦИОННЫХ СИСТЕМ\Master\ZINIS-master\Semestr2\Labs1\Nod\obj\Debug\netcoreapp3.1\Nod.genruntimeconfig.cache
